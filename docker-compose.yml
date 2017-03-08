@@ -1,0 +1,11 @@
+version: "2"
+services:
+  openshare:
+    image: brpsystems/sambashare:latest
+    container_name: test_share
+    ports:
+      - "139:139"
+      - "445:445"
+    volumes:
+      - /var/brp/:/var/brp
+      - /opt/brp/upgrade:/opt/brp/upgrade
