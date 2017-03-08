@@ -1,6 +1,6 @@
 version: "2"
 services:
-  openshare:
+  sambashare:
     image: brpsystems/sambashare:latest
     container_name: test_share
     ports:
