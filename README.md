@@ -3,7 +3,7 @@
 
 Kräver att det finns följande paths på hosten:
 
-| paths                   |        chmod     |        Vad ska bo                    |
+| paths                   |        chmod     |        Vad ska bo   här?             |
 |-------------------------|:----------------:|-------------------------------------:|
 | /var/brp                |     -chmod 755   |                                      |
 | /var/brp/logs           |     -chmod 755   |    (Här loggar saker)                |
