@@ -15,5 +15,6 @@ Kräver att det finns följande paths på hosten:
 
 ...
 
-docker-compose up -d sambashare
+docker-compose up -d sambashare  
+
 ...
