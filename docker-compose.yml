@@ -8,4 +8,4 @@ services:
       - "445:445"
     volumes:
       - /var/brp/:/var/brp
-      - /opt/brp/upgrade:/opt/brp/upgrade
+      - /opt/brp/:/opt/brp/
